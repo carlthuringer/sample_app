@@ -185,3 +185,11 @@ div.field, div.actions {
   list-style: square;
 }
 
+/* User index */
+ul.users {
+  margin-top: 1em;
+}
+
+ul.users li {
+  list-style: none;
+}
